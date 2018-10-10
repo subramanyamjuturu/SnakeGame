@@ -1,0 +1,28 @@
+1. create java project
+2. create java class
+3. create JFrame object for UI of snake
+4. Implement UI for game
+5. create another class for game properties and create another folder in the class
+6. Copy the images of the snakes in the the folder
+7. Implement code for border of the game in another class
+8. Initialize X and Y length of the snake using arrays
+9. Initialize variables for sides of the snakes using boolean
+10. Initiable variables for snake faces
+11. Add code of timmer for snake moving
+12. Add default lenth of the code
+14. Implement code for key operations and actions 
+15. Implememt code of the key operations and actions
+16. Add the code in constructor defalut position of snake and timer for snake
+17. Add default position of the snake below background of the snake play
+18. Write code for the position of the snake and if game ist started already
+19. Implement the code of the key events
+20. Make directions true or false based on action
+21. Write the code for snake moving (moving the index to previous position logic)
+22. Add the code for the enemy position
+23. create variable for enemyimage 
+24. create random object for x and y position of enemny
+25. paint the image of the enemy.
+26. Initialise score and length of the variables
+27. Draw scores and length of the snake
+28. Implement key listner for space bar for restarting the game
+29. Impelent code for collison and display the game over and space to restart
